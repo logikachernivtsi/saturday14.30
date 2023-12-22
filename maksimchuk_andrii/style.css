@@ -12,7 +12,7 @@ h1 {
 img{
     width:400px;
     height: 300px;
-    margin: 10px 320px 10px 320px;
+    margin: 10px 480px;
 
 }
 nav a{
@@ -21,6 +21,10 @@ nav a{
     color:yellow;
     text-decoration: none;
     margin-left:250px;
+}
+
+nav{
+   margin-left:190px; 
 }
 
 a {
