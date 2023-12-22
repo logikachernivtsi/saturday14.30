@@ -1,0 +1,33 @@
+p {
+    font-size: 25px;
+    color: #66ff00 ;
+}
+
+body {
+    background-color:#000000 ;
+}
+
+header h1{
+    text-align: center;
+    color:#66ff00 ;
+    font-size: 60px;
+}
+
+img{
+    width: 100%;
+}
+
+footer{
+    background-color: #66ff00;
+
+}
+
+footer p {
+        color: black;
+}
+
+.biography_PUBG{
+    border: 5px dotted #66ff00;
+    border-radius: 15px;
+    padding:7px;
+}
