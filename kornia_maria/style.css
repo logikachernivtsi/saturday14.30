@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(110, 230, 230);
+}
+
+img{
+    width: 500px;;
+}
+nav a {
+    text-decoration: none;
+    background-color: rgb(255, 151, 151);
+    font-size: 20px;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+nav{
+    margin-top: 20px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
