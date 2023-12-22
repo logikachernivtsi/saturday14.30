@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(95, 10, 173, 0.637);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size:20px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header h1{
+    text-align: center;
+    background-color: blue;
+    color:white;
+    font-size:50px;
+}
+
+p img{
+    height: 400px;
+    text-align: center;
+}
+
+footer p{
+    text-align:center;
+}
+
+span{
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    padding: 10px;
+}
