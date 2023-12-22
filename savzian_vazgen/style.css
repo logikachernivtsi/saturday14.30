@@ -7,6 +7,10 @@ header {
     padding: 5px;
 }
 
+img {
+    width:100%;
+}
+
 .logo{
     width: 209px;
     height: 167px;
